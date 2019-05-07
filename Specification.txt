@@ -1,0 +1,19 @@
+European-Danish Grade Converter:
+The program converts european grade system to Danish grades and vice versa.
+
+It should convert the grades accordingly:
+- If Danish grade equals 12, it should print A
+- If Danish grade equals 10, it should print B
+- If Danish grade equals 7, it should print C
+- If Danish grade equals 4, it should print D
+- If Danish grade equals 2, it should print E
+- If Danish grade equals 0, it should print FX
+- If Danish grade equals -2, it should print F
+- If European grade equals A, it should print 12
+- If European grade equals B, it should print 10
+- If European grade equals C, it should print 7
+- If European grade equals D, it should print 4
+- If European grade equals E, it should print 2
+- If European grade equals FX, it should print 0
+- If European grade equals F, it should print -2
+- If input is different, print error message
