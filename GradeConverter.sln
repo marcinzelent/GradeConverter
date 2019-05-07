@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeConverter", "GradeConverter\GradeConverter.csproj", "{37D926E1-4FB4-4393-BDC7-591540969FEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeConverter.Tests", "GradeConverter.Tests\GradeConverter.Tests.csproj", "{353AF71C-A0C3-4442-8C71-167F2FCE4665}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
